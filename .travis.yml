@@ -8,3 +8,4 @@ php:
 env:
   global:
     - CI=true
+composer install
