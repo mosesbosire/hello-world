@@ -6,3 +6,4 @@ php:
   - '7.0'
   - hhvm
 install: php vendor/vendors.php
+env: true
